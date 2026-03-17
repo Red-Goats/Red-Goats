@@ -15,6 +15,4 @@ We're building tools for healthcare, agents, and markets.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Goats&layout=compact&theme=dark)
 
----
 
-Check out our repos → build with us 🚀
