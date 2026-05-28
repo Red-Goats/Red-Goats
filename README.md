@@ -1,5 +1,5 @@
 # 👋 yo yo from Red-Goats
-Current Projects:<br><br> Medical Directory — University provider directory platform (FastAPI + Next.js + Flutter)<br> Medical Speech — Clinical encounter recording & transcription<br> AgentsMesh — Agent-to-agent task marketplace
+Current Projects:<br><br> Medical Directory — University provider directory platform (FastAPI + Next.js + Flutter)<br> Medical Speech — Clinical encounter recording & transcription<br> Offense and Counter Drone Warfare
 
 
 ## 🌐 Socials:
